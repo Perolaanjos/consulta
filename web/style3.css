@@ -1,0 +1,49 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28 de mai. de 2025, 22:44:08
+    Author     : Perola
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #f0f4f8, #d9e4f5);
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 50px;
+    color: #2c3e50;
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 40px; /* move um pouco pra esquerda */
+    margin-top: 40px;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.3em;
+    color: #34495e;
+    background-color: #ecf0f1;
+    padding: 12px 20px;
+    border-radius: 8px;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    background-color: #3498db;
+    color: white;
+    transform: scale(1.05);
+}

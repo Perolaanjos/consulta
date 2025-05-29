@@ -1,0 +1,72 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28 de mai. de 2025, 18:24:52
+    Author     : Perola
+*/
+
+
+/* Fundo com gradiente bonito */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Caixa centralizada com sombra e arredondamento */
+form {
+    background-color: #ffffffcc;
+    padding: 90px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    width: 300px;
+   margin: 70px 50px 0px 30px;
+}
+
+/* Título H1 bonito e centralizado */
+h1 {
+    position: absolute;
+    top: 80px;
+    font-size: 36px;
+    color: #333;
+    text-align: center;
+}
+
+/* Labels e inputs harmoniosos */
+label {
+    font-weight: bold;
+    color: #444;
+    text-align: left;
+}
+
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+/* Botão estilizado */
+button {
+    padding: 12px;
+    background-color: #a8edea;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button:hover {
+    background-color: #fed6e3;
+}
