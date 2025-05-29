@@ -8,7 +8,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css
 */
 
 
-/* Fundo com gradiente bonito */
+
 body {
     margin: 0;
     padding: 0;
@@ -20,7 +20,7 @@ body {
     height: 100vh;
 }
 
-/* Caixa centralizada com sombra e arredondamento */
+
 form {
     background-color: #ffffffcc;
     padding: 90px;
@@ -33,7 +33,7 @@ form {
    margin: 70px 50px 0px 30px;
 }
 
-/* Título H1 bonito e centralizado */
+
 h1 {
     position: absolute;
     top: 80px;
@@ -42,7 +42,7 @@ h1 {
     text-align: center;
 }
 
-/* Labels e inputs harmoniosos */
+
 label {
     font-weight: bold;
     color: #444;
@@ -56,7 +56,7 @@ input {
     font-size: 16px;
 }
 
-/* Botão estilizado */
+
 button {
     padding: 12px;
     background-color: #a8edea;
